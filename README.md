@@ -1,1 +1,2 @@
 # Ddeep-Learning-Numbers-Recognition
+This program can be used for identifying handwritten digits. The program will receive as input a picture of a digit between 0 and 9 and return as output the digit that was detected. We do this by building a model of a neural network. In order to implement the model, I implemented some useful classes such as a matrix, a network layer and an activation function. The network will reach 96 percent accuracy in digit recognition.
